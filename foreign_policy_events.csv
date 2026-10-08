@@ -1,0 +1,11 @@
+event_id,date,country_a,country_b,issue_area,event_type,headline,summary,relationship_signal,source_url
+1,2025-01-15,India,United States,Technology,Dialogue,Technology cooperation dialogue,Officials discuss cooperation in critical and emerging technologies.,Cooperative,https://www.mea.gov.in/
+2,2025-02-03,India,China,Border and security,Dialogue,Bilateral security consultation,Officials review border-management and regional-security concerns.,Neutral,https://www.mea.gov.in/
+3,2025-02-18,India,Russia,Defence,Agreement,Defence cooperation review,Officials review defence cooperation and long-term equipment support.,Cooperative,https://www.mea.gov.in/
+4,2025-03-02,United States,China,Trade,Dispute,Trade-policy disagreement,Public statements reflect disagreement over tariffs and market access.,Tense,https://www.state.gov/
+5,2025-03-21,India,European Union,Climate,Negotiation,Climate and clean-energy consultation,Representatives discuss clean-energy cooperation and climate priorities.,Cooperative,https://policy.trade.ec.europa.eu/
+6,2025-04-05,India,United States,Education,Dialogue,Student and research exchange discussion,Officials discuss academic mobility and research collaboration.,Cooperative,https://www.state.gov/
+7,2025-04-17,India,China,Trade,Negotiation,Trade and supply-chain consultation,Officials discuss trade flows and supply-chain resilience.,Neutral,https://www.mea.gov.in/
+8,2025-05-01,India,Russia,Energy,Agreement,Energy cooperation discussion,Representatives discuss energy security and long-term supply relationships.,Cooperative,https://www.mea.gov.in/
+9,2025-05-19,United States,European Union,Technology,Dialogue,Digital-policy coordination meeting,Officials discuss digital governance and technology standards.,Cooperative,https://digital-strategy.ec.europa.eu/
+10,2025-06-07,India,European Union,Trade,Negotiation,Trade negotiation round,Negotiators discuss market access and standards alignment.,Neutral,https://policy.trade.ec.europa.eu/
